@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+
+.App {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  text-align: center;
+  height: 70vh;
+  padding: 1rem;
+}
+
+.card {
+ display: flex;   
+  width: 600px;
+  margin: 1rem;
+  text-align: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 1rem;
+}
+.fleex{
+  display: flex;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+}
+
+h1 {
+  margin: 1rem 0;
+}
+
+h2 {
+  margin: 1rem 0;
+}
